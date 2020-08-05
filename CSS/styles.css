@@ -1,13 +1,9 @@
-h2.intro {
+.intro {
   color: goldenrod;
   font-style: sans-serif;
+}
 
-}
-p.intro {
-  color:tomato;
-  font-style: italic;
-}
-img.intro {
+img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
